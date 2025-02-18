@@ -11,3 +11,17 @@ Description: Make Google Translate work again on iOS 6 or lower
 Name: reTranslate
 Author: Preloading <reposithree@gmail.com>
 Depiction: https://gabtordjman.github.io/gab-cydia/depictions/?p=dev.preloading.retranslate
+
+Package: bag.skyglow.bluetweety
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BagXML <reposithree@gmail.com>
+Depends: firmware (>5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/bag.skyglow.bluetweety_1.0_iphoneos-arm.deb
+Size: 854
+MD5sum: 2df8f6b888c8f8d831f9ded18b8bed15
+Description: Fix Twitter integration on iOS 5 to iOS 10. Also fixes the Twitter app.
+Name: BlueTweety
+Author: BagXML <reposithree@gmail.com>
+Depiction: https://gabtordjman.github.io/gab-cydia/depictions/?p=bag.skyglow.bluetweety
