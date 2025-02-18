@@ -1,40 +1,23 @@
 <package>
 	<id>dev.preloading.retranslate</id>
-	<name>ReTranslate</name>
+	<name>reTranslate</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>3.0</miniOS>
+			<maxiOS>6.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
-	<shortDescription>Make Google Translate work again</shortDescription>
+	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Works with version 1.3 to 2.0</description>
-		<description>It has more description lines.</description>
+		<description>This is an old package. Requires iOS 7 and below..</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>
